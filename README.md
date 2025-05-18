@@ -3,11 +3,13 @@ Set of basic java scripts demonstrating that I still have a syntax brain..
 ## Experimentation 
 Attempted to execute this and push it through Mac OS terminal, but the syntax proved to be a little difficult, I'll attempt this with the next project. 
 
-## For Projects In The Future
-1. I'm under the impression that you can also choose what language your project will be in (initially), but im curious for when multiple programming languages get underway, how does that work? 
+# What Did I learn? What Am I Unsure On? 
+
+ I'm under the impression that you can also choose what language your project will be in (initially), but im curious for when multiple programming languages get underway, how does that work? 
 
 
-2. Also im interested in executing the following (Summer 2025): 
+
+# Executable Future Projects (Summer 2025): 
 
       **Calculator** - Basic with just the scanner for user input, and maybe some if statements. 
       
@@ -26,5 +28,5 @@ Attempted to execute this and push it through Mac OS terminal, but the syntax pr
       (Scalable Option) - Add visualizers for the birthday card, and just fill in the blanks with the users answers. Possibly use canva for a design template and then program it somehow 
 
 
-**## My Current philosophy is that the best teacher is practice and just doing more projects, and if I get stuck, then consult a tutorial. But, dont go down tutorial-hell voluntarily.**
+## **My Current philosophy is that the best teacher is practice and just doing more projects, and if I get stuck, then consult a tutorial. But, dont go down tutorial-hell voluntarily.**
 
